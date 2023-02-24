@@ -1,0 +1,12 @@
+#navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+@media screen and (min-width:600px) {
+  #projects-grid {
+    display: flex;
+
+  }
+}
